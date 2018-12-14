@@ -1,2 +1,2 @@
 # Android-app-for-word-memorizing
-Fall Semester Proj
+2018 Fall 
